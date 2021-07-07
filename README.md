@@ -75,7 +75,8 @@ Given an image the model generates a caption that describes the image
 * *Clone git repository*
 * *Refer to flickr.txt to see if data is downloaded*
 * *Make sure correct packages are installed(below)*
-* *Run predict.py*
+* *Run model.py*
+* *Change the model loading directory in predict.py your saved model's directory*
 * *or for easier overall usage run ImageCaptioningProj.ipynb*
 
 ### Prerequisites
