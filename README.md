@@ -74,7 +74,8 @@ Given an image the model generates a caption that describes the image
 
 * *Clone git repository*
 * *Make sure correct packages are installed(below)*
-* *Run markov.py*
+* *Run predict.py*
+* *or for easier overall usage run ImageCaptioningProj.ipynb*
 
 ### Prerequisites
 
