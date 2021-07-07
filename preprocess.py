@@ -97,4 +97,7 @@ threshold = 10
 sorted_freq_cnt = [x for x in sorted_freq_cnt if x[1]>threshold]
 total_words = [x[0] for x in sorted_freq_cnt]
 
-print(len(total_words))        
+print(len(total_words)) 
+
+train = load_doc("/content/all_captions/Flickr_8k.trainImages.txt")
+test = load_doc("/content/all_captions/Flickr_8k.testImages.txt")
