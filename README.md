@@ -73,6 +73,7 @@ Given an image the model generates a caption that describes the image
 ## Getting Started
 
 * *Clone git repository*
+* *Refer to flickr.txt to see if data is downloaded*
 * *Make sure correct packages are installed(below)*
 * *Run predict.py*
 * *or for easier overall usage run ImageCaptioningProj.ipynb*
