@@ -1,0 +1,6 @@
+wget https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+wget https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+wget http://nlp.stanford.edu/data/glove.6B.zip
+unzip /content/glove.6B.zip
+unzip Flickr8k_Dataset.zip -d all_images
+unzip Flickr8k_text.zip -d all_captions
